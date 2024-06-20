@@ -1,4 +1,4 @@
-Plant Disease Detection
+Plant Disease Detection Project
 
 Plant disease has been one of the leading causes of crop failure, leading to horrible health conditions, unpredictable crop yield and economic recessions. 
 
